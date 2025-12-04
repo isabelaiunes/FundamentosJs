@@ -1,6 +1,6 @@
 var quantidade = 10;
 // var é variável e igual (=) é símbolo de atribuição. "10" está armazenado na var quantidade.
-// Atualmente, usa-se let em vez de var e há algumas diferenças.
+// Atualmente, usa-se let em vez de var e há algumas diferenças. Var permite redeclaração, let não.
 // O nome da variável é o identificador.
 var nome = "Caneta"
 let preco = 6.4;
