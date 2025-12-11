@@ -1,0 +1,19 @@
+E (&&):
+v e v -> v
+v e f -> f
+f e ? -> f
+
+OU (||):
+v ou ? -> v
+f ou v -> v
+f ou f -> f
+
+OU Exclusivo (^): O OU Exclusivo pode ser operado por diferença (!=) também.
+v xor v -> f    
+v xor f -> v
+f xor v -> v
+f xor f -> f
+
+Negação Lógica:
+!v -> f
+!f -> v
