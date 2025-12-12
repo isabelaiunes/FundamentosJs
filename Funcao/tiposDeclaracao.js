@@ -1,4 +1,6 @@
 console.log(soma(3, 4))
+// console.log(sub(3, 4))
+
 
 // function declaration
 function soma(x, y) {
